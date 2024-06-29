@@ -7,7 +7,7 @@ print("Imported Successfully....")
 
 prompt= """
 
-you are a smart assistant , so please let me know who won the 20 20 cricket worldcup 2024?
+you are a smart assistant , so please let me know steps to remove secrets from git push?
 
 """
 
