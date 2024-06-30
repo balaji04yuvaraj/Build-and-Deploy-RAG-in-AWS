@@ -8,7 +8,7 @@ import base64
 print("imported successfully...")
 
 prompt="""
-     provide me one 4k hd image of leonardo da vinci playing cricket. 
+     provide me one 4k hd image of sachin tendulkar . 
 """
 
 prompt_template=[{"text":prompt,"weight":1}]
